@@ -61,19 +61,37 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+body {
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 16px;
+  color: #737373;
+  line-height: 1;
+  font-weight: 700;
+}
 
+h1 {
+  font-family: 'Josefin Slab', serif;
+  color: #333333;
+  font-size: 42px;
+  margin: 1.5rem 0;
+}
 
+div.content {
+  margin-top: 4%;
+  width: 340px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 
+div.content .sub-head {
+  font-size: 23px;
+  margin: 1.5rem 0;
+}
 
-
-
-
-
-
-
-
-
-
+div.content .links a {
+  color: #AAAAAA;
+}
 
 /* ==========================================================================
    Media Queries
@@ -88,68 +106,6 @@ textarea {
        (-webkit-min-device-pixel-ratio: 1.25),
        (min-resolution: 120dpi) {
 
-}
-
-/* ==========================================================================
-   Helper classes
-   ========================================================================== */
-
-.ir {
-    background-color: transparent;
-    border: 0;
-    overflow: hidden;
-    *text-indent: -9999px;
-}
-
-.ir:before {
-    content: "";
-    display: block;
-    width: 0;
-    height: 150%;
-}
-
-.hidden {
-    display: none !important;
-    visibility: hidden;
-}
-
-.visuallyhidden {
-    border: 0;
-    clip: rect(0 0 0 0);
-    height: 1px;
-    margin: -1px;
-    overflow: hidden;
-    padding: 0;
-    position: absolute;
-    width: 1px;
-}
-
-.visuallyhidden.focusable:active,
-.visuallyhidden.focusable:focus {
-    clip: auto;
-    height: auto;
-    margin: 0;
-    overflow: visible;
-    position: static;
-    width: auto;
-}
-
-.invisible {
-    visibility: hidden;
-}
-
-.clearfix:before,
-.clearfix:after {
-    content: " ";
-    display: table;
-}
-
-.clearfix:after {
-    clear: both;
-}
-
-.clearfix {
-    *zoom: 1;
 }
 
 /* ==========================================================================
