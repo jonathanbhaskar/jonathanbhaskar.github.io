@@ -62,23 +62,23 @@ textarea {
    ========================================================================== */
 
 body {
-  font-family: 'Open Sans Condensed', sans-serif;
-  font-size: 16px;
-  color: #737373;
+  font-family: 'Neuton', sans-serif;
+  font-size: 18px;
+  color: #AAAAAA;
   line-height: 1;
-  font-weight: 700;
 }
 
 h1 {
-  font-family: 'Josefin Slab', serif;
+  font-family: 'Neuton', serif;
   color: #333333;
-  font-size: 42px;
+  font-size: 40px;
   margin: 1.5rem 0;
+  font-weight: 700;
 }
 
 div.content {
   margin-top: 4%;
-  width: 340px;
+  width: 600px;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -86,11 +86,29 @@ div.content {
 
 div.content .sub-head {
   font-size: 23px;
+  font-weight: 700;
   margin: 1.5rem 0;
+  color: #737373;
 }
 
-div.content .links a {
+div.content .top-links {
+  margin-right: 0.5rem;
+}
+
+div.content a {
   color: #AAAAAA;
+}
+
+div.content b {
+  color: #737373;
+}
+
+div.content .topic-head {
+  margin-bottom: 0.2rem;
+}
+
+div.content .topic-text {
+  margin-top: 0.2rem;
 }
 
 /* ==========================================================================
