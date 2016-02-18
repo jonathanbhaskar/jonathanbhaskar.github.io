@@ -77,8 +77,8 @@ h1 {
 }
 
 div.content {
-  margin-top: 4%;
-  width: 600px;
+  margin-top: 4rem;
+  width: 550px;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -91,8 +91,12 @@ div.content .sub-head {
   color: #737373;
 }
 
+div.content .links {
+  margin-bottom: 4rem;
+}
+
 div.content .top-links {
-  margin-right: 0.5rem;
+  margin-right: 1rem;
 }
 
 div.content a {
@@ -104,11 +108,12 @@ div.content b {
 }
 
 div.content .topic-head {
-  margin-bottom: 0.2rem;
+  margin-bottom: 0.35rem;
 }
 
 div.content .topic-text {
-  margin-top: 0.2rem;
+  margin-top: 0.35rem;
+  margin-bottom: 2.5rem;
 }
 
 /* ==========================================================================
