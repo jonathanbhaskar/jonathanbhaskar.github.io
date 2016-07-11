@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Image Classification Using CNNs"
+title:  "Predicting the likability of a photo on Instagram"
 author: "Ankit Patel, Jonathan Bhaskar"
 ---
 
