@@ -141,14 +141,14 @@ A CNN needs to be trained on a lot of input data to perform well. The ImageNet c
 
 ## References
 
-[^1]: http://www.cs.toronto.edu/~fritz/absps/imagenet.pdf
-[^2]: http://cs231n.github.io/
-[^3]: http://cs231n.github.io/neural-networks-1/
+[^1]: <a target="_blank" href="http://www.cs.toronto.edu/~fritz/absps/imagenet.pdf">http://www.cs.toronto.edu/~fritz/absps/imagenet.pdf</a>
+[^2]: <a target="_blank" href="http://cs231n.github.io/">http://cs231n.github.io/</a>
+[^3]: <a target="_blank" href="http://cs231n.github.io/neural-networks-1/">http://cs231n.github.io/neural-networks-1/</a>
 [^4]: Tom’s Neural Network Lecture notes
-[^5]: http://stackoverflow.com/questions/11677508/why-do-sigmoid-functions-work-in-neural-nets
-[^6]: http://cs231n.github.io/neural-networks-2/
-[^7]: http://stats.stackexchange.com/questions/70101/neural-networks-weight-change-momentum-and-weight-decay
-[^8]: http://cs231n.github.io/neural-networks-3/#anneal
-[^9]: http://cs231n.github.io/convolutional-networks/#overview
-[^10]: https://courses.cs.sfu.ca/2015fa-cmpt-733-g1/pages/W3_CNN/view
-[^11]: http://cs231n.github.io/transfer-learning/
+[^5]: <a target="_blank" href="http://stackoverflow.com/questions/11677508/why-do-sigmoid-functions-work-in-neural-nets">http://stackoverflow.com/questions/11677508/why-do-sigmoid-functions-work-in-neural-nets</a>
+[^6]: <a target="_blank" href="http://cs231n.github.io/neural-networks-2/">http://cs231n.github.io/neural-networks-2/</a>
+[^7]: <a target="_blank" href="http://stats.stackexchange.com/questions/70101/neural-networks-weight-change-momentum-and-weight-decay">http://stats.stackexchange.com/questions/70101/neural-networks-weight-change-momentum-and-weight-decay</a>
+[^8]: <a target="_blank" href="http://cs231n.github.io/neural-networks-3/#anneal">http://cs231n.github.io/neural-networks-3/#anneal</a>
+[^9]: <a target="_blank" href="http://cs231n.github.io/convolutional-networks/#overview">http://cs231n.github.io/convolutional-networks/#overview</a>
+[^10]: <a target="_blank" href="https://courses.cs.sfu.ca/2015fa-cmpt-733-g1/pages/W3_CNN/view">https://courses.cs.sfu.ca/2015fa-cmpt-733-g1/pages/W3_CNN/view</a>
+[^11]: <a target="_blank" href="http://cs231n.github.io/transfer-learning/">http://cs231n.github.io/transfer-learning/</a>

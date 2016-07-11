@@ -192,9 +192,9 @@ Through simple and coherent structure, Raft has proven itself to be an easier, f
 [^2]: [Paxos made simple.](http://research.microsoft.com/en-us/um/people/lamport/pubs/paxos-simple.pdf)
 [^3]: [Paxos Made Live - An Engineering Perspective](http://www.cs.utexas.edu/users/lorenzo/corsi/cs380d/papers/paper2-1.pdf)
 [^4]: [ZooKeeper: Wait-free coordination for Internet-scale systems](http://www.bruzgys.eu/files/ZooKeeper%20-%20Wait-free%20coordination%20for%20Internet-scale%20systems.pdf)
-[^5]: https://cwiki.apache.org/confluence/display/ZOOKEEPER/Zab+vs.+Paxos
+[^5]: <a target="_blank" href="https://cwiki.apache.org/confluence/display/ZOOKEEPER/Zab+vs.+Paxos">https://cwiki.apache.org/confluence/display/ZOOKEEPER/Zab+vs.+Paxos</a>
 [^6]: [Replication in the Harp File System](http://pdos.csail.mit.edu/6.824-2004/papers/harp.pdf)
 [^7]: [Vive La Difference: Paxos vs. Viewstamped Replication vs. Zab](https://www.cs.cornell.edu/fbs/publications/viveLaDifference.pdf)
 [^8]: [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
-[^9]: https://ramcloud.stanford.edu/~ongaro/userstudy/paxos.pdf
-[^10]: https://ramcloud.stanford.edu/~ongaro/userstudy/raft.pdf
+[^9]: <a target="_blank" href="https://ramcloud.stanford.edu/~ongaro/userstudy/paxos.pdf">https://ramcloud.stanford.edu/~ongaro/userstudy/paxos.pdf</a>
+[^10]: <a target="_blank" href="https://ramcloud.stanford.edu/~ongaro/userstudy/raft.pdf">https://ramcloud.stanford.edu/~ongaro/userstudy/raft.pdf</a>

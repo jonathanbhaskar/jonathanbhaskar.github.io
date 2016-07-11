@@ -89,8 +89,8 @@ While the theory behind these rating systems are not very easy to understand, th
 
 ## References and Datasets
 
-* Movielens: http://grouplens.org/datasets/movielens/
-* Amazon: http://snap.stanford.edu/data/web-Amazon-links.html
-* http://www.evanmiller.org/ranking-items-with-star-ratings.html
-* http://stackoverflow.com/questions/1411199/what-is-a-better-way-to-sort-by-a-5-star-rating
-* https://districtdatalabs.silvrback.com/computing-a-bayesian-estimate-of-star-rating-means
+* [Movielens](http://grouplens.org/datasets/movielens/)
+* [Amazon](http://snap.stanford.edu/data/web-Amazon-links.html)
+* <a target="_blank" href="http://www.evanmiller.org/ranking-items-with-star-ratings.html">http://www.evanmiller.org/ranking-items-with-star-ratings.html</a>
+* <a target="_blank" href="http://stackoverflow.com/questions/1411199/what-is-a-better-way-to-sort-by-a-5-star-rating">http://stackoverflow.com/questions/1411199/what-is-a-better-way-to-sort-by-a-5-star-rating</a>
+* <a target="_blank" href="https://districtdatalabs.silvrback.com/computing-a-bayesian-estimate-of-star-rating-means">https://districtdatalabs.silvrback.com/computing-a-bayesian-estimate-of-star-rating-means</a>
